@@ -1,0 +1,103 @@
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_SUCESS
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+order_sn: 1
+CaseName: 订单支付接口_订单号为空
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+order_sn: 2
+CaseName: 订单支付接口_订单号错误
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+order_sn: 3
+CaseName: 订单支付接口_订单号和支付金额不对应
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+order_amount: 1
+CaseName: 订单支付接口_支付金额为空
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+order_amount: 2
+CaseName: 订单支付接口_支付金额含特殊字符
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '2'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_pay_id=2
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '2'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_order_status=2
+code: 0
+
+---
+trade_no: '2015122921001003610003783823'
+pay_id: '1'
+pay_serial_no: '201512296484411111'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_pay_serial_no错误
+code: 0
+
+---
+trade_no: ''
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_trade_no为空
+code: 0
+
+---
+trade_no: '2015122921001003610003783824'
+pay_id: '1'
+pay_serial_no: '2015122964844'
+order_status: '1'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 订单支付接口_trade_no错误
+code: 0

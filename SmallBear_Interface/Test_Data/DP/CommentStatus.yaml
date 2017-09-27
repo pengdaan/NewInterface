@@ -1,0 +1,24 @@
+---
+api_key: b47d4503ce201db6df525911812dd089
+idtype: 3
+CaseName: 更新评价状态_SUCESS
+code: 200
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+idtype: 1
+CaseName: 更新评价状态_idtype错误
+code: 1002
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+idtype:
+CaseName: 更新评价状态_idtype为空
+code: 1003
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+idtype: 3
+order_sn: 1
+CaseName: 更新评价状态_订单未支付
+code: 200

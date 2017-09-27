@@ -1,0 +1,5 @@
+---
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+data: '{"supplierId":1495,"orderId":%s,"coupons":["%s"]}'
+CaseName: 输入消费券发货_SUCESS
+code: 0

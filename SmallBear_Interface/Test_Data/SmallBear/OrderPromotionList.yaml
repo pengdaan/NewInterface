@@ -1,0 +1,31 @@
+---
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+promotion_id: '33733'
+promotion_type: '1'
+uid: '43507844'
+CaseName: 获取用户购买的促销订单信息_SUCESS
+code: 0
+
+---
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+promotion_id: ''
+promotion_type: '1'
+uid: '43507844'
+CaseName: 获取用户购买的促销订单信息_promotion_id为空
+code: 0
+
+---
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+promotion_id: '33733'
+promotion_type: ''
+uid: '43507844'
+CaseName: 获取用户购买的促销订单信息_promotion_type为空
+code: 0
+
+---
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+promotion_id: '33733'
+promotion_type: '1'
+uid: ''
+CaseName: 获取用户购买的促销订单信息_uid为空
+code: 0

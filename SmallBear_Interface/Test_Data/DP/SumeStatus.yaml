@@ -1,0 +1,17 @@
+---
+api_key: b47d4503ce201db6df525911812dd089
+reservation_id: 1
+CaseName: 更新到店状态_SUCESS
+code: 200
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+reservation_id: 2
+CaseName: 更新到店状态_reservation_id等于2
+code: 200
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+reservation_id: 2
+CaseName: 更新到店状态_reservation_id为空
+code: 200

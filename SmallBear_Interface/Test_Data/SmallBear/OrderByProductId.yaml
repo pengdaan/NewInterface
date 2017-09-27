@@ -1,0 +1,28 @@
+---
+api_key: d81b8598bc36a686cc8cbbd26599bd92
+product_id: '10750'
+uid: '43507844'
+goods_id: '777'
+CaseName: 通过商品id获取订单列表_SUCESS
+code: 0
+---
+api_key: d81b8598bc36a686cc8cbbd26599bd92
+product_id: ''
+uid: '43507844'
+goods_id: '777'
+CaseName: 通过商品id获取订单列表_product_id为空
+code: 0
+---
+api_key: d81b8598bc36a686cc8cbbd26599bd92
+product_id: '10750'
+uid: ''
+goods_id: '777'
+CaseName: 通过商品id获取订单列表_UID为空
+code: 0
+---
+api_key: d81b8598bc36a686cc8cbbd26599bd92
+product_id: '10750'
+uid: '43507844'
+goods_id: ''
+CaseName: 通过商品id获取订单列表_goods_id为空
+code: 0

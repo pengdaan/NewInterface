@@ -1,0 +1,55 @@
+---
+app_name: xsx
+supplier_name: Test_01
+merchants_official: 陈先生
+pay_method_id: 1
+bank: 招商银行
+bank_account: 6214875423014521
+bank_user_name: 彭先生
+tax_payer_no: 32165
+contacts: 彭先生
+email: 247032102@qq.com
+address: 广东省广州市天河区宏发大厦705号
+mobile: 13800138000
+business_scope:
+remark:
+appkey: xsx
+CaseName: erp系统创建供货商_SUCESS
+code: 0
+
+---
+app_name:
+supplier_name: Test_01
+merchants_official: 陈先生
+pay_method_id: 1
+bank: 招商银行
+bank_account: 6214875423014521
+bank_user_name: 彭先生
+tax_payer_no: 32165
+contacts: 彭先生
+email: 247032102@qq.com
+address: 广东省广州市天河区宏发大厦705号
+mobile: 13800138000
+business_scope:
+remark:
+appkey: xsx
+CaseName: erp系统创建供货商_app_name为空
+code: 0
+
+---
+app_name: xsx
+supplier_name:
+pay_method_id: 1
+bank: 招商银行
+bank_account: 6214875423014521
+bank_user_name: 彭先生
+tax_payer_no: 32165
+contacts: 彭先生
+email: 247032102@qq.com
+address: 广东省广州市天河区宏发大厦705号
+mobile: 13800138000
+business_scope:
+remark:
+appkey: xsx
+CaseName: erp系统创建供货商_asupplier_name为空
+code: 0

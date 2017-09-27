@@ -1,0 +1,10 @@
+---
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+CaseName: 前台取消订单，申请退款_sucess
+code: 0
+
+---
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+order_sn: 0
+CaseName: 前台取消订单，申请退款_不传订单号
+code: 0

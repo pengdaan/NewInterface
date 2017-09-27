@@ -1,0 +1,17 @@
+---
+api_key: b47d4503ce201db6df525911812dd089
+goods_ids: 846
+CaseName: 获取商品基本信息-列表页_SUCESS
+code: 200
+---
+api_key: b47d4503ce201db6df525911812dd089
+goods_ids:
+CaseName: 获取商品基本信息-列表页_商品id为空
+code: 200
+
+---
+api_key: b47d4503ce201db6df525911812dd089
+goods_ids: 84600
+CaseName: 获取商品基本信息-列表页_商品id不存在
+code: 200
+

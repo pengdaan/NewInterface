@@ -1,0 +1,194 @@
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口[不发卷]_下单成功
+code: 0
+
+
+---
+
+pay_expire: '7200'
+uid: '43507844'
+shop_id: '1'
+version: '2.1'
+source: wap
+mobile: '1372814279'
+products: '[{"product_id":"10860","goods_id":"870","product_sn":"product2017021610860","goods_name":"\u6d4b\u8bd5\u5546\u54c1_02(\u53d1\u5377)","cat_id":"483","shop_price":"10.00","goods_thumb":"\/\/cdn-dianping.mama.cn\/upload\/http:\/\/cdn-dianping.mama.cn\/upload\/201702\/20170206\/2a572c38539179823fc795d455e9b526.jpg","supplier_id":"1","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"0","goods_attr_id":"3080|3081","goods_attr":"\u989c\u8272:\u7ea2\u8272|\u7801\u6570:38"}]'
+shop_city: '1'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+consignee: 么么22
+CaseName: 点评下单接口[发卷]_下单成功
+code: 0
+
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142739'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+CaseName: 点评下单接口_source不存在
+code: 0
+
+
+
+
+---
+version: '2.0'
+mobile: '13728142740'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+CaseName: 点评下单接口_products不存在
+code: 10011004
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+CaseName: 点评下单接口_mobile不存在
+code: 10011004
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142740'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+CaseName: 点评下单接口_uid不传
+code: 10011004
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口_shop_city不传
+code: 0
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口_pay_expire字段不存在
+code: 0
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee:
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口_consignee为空
+code: 0
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id:
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口_shop_id为空
+code: 0
+
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key:
+source: wap
+CaseName: 点评下单接口_api_key为空
+code: 0
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3221
+source: wap
+CaseName: 点评下单接口_api_key错误
+code: 0
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '12345678951'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么22
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3221
+source: wap
+CaseName: 点评下单接口_mobile错误
+code: 0
+
+
+---
+version: '2.0'
+products: '[{"product_id":"10852","goods_id":"846","product_sn":"product2016101010852","goods_name":"扣点商品001（xsx勿动）","shop_price":"10.00","goods_thumb":"//cdn-dianping.mama.cn/upload/201610/20161010/b02077e9907e75c58d15b8c6245bb175.jpg","supplier_id":"121","without_return":"0","goods_number":"1","use_coupon":"3","end_return_time":"0","return_anytime":"1","goods_attr_id":"3030","goods_attr":"默认属性:均码"}]'
+mobile: '13728142738'
+uid: '43507844'
+shop_city: '289'
+pay_expire: '7200'
+consignee: 么么222
+shop_id: '38021'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+source: wap
+CaseName: 点评下单接口_consignee错误
+code: 0

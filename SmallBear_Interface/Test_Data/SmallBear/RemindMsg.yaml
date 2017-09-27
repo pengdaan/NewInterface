@@ -1,0 +1,31 @@
+---
+msg_ids: '[1,2,3]'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 更新订单客服留言接口_SUCESS
+code: 0
+
+---
+order_sn : 1
+msg_ids: '[1,2,3]'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 更新订单客服留言接口_订单号错误
+code: 0
+
+---
+msg_ids: '[1]'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 更新订单客服留言接口_msg_ids为1
+code: 0
+
+---
+order_sn: 2
+msg_ids: '[1,2,3]'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 更新订单客服留言接口_订单号为空
+code: 0
+
+---
+msg_ids: ''
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 更新订单客服留言接口_msg_ids为空
+code: 0

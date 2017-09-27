@@ -1,0 +1,26 @@
+---
+uid: '43507844'
+order_cate_id: '[2001,2002,2003,2004]'
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+CaseName: 根据订单分类获取分类订单总数_SUCESS
+code: 0
+---
+uid: ''
+order_cate_id: '[2001,2002,2003,2004]'
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+CaseName: 根据订单分类获取分类订单总数_uid为空
+code: 0
+
+---
+uid: '43507844'
+order_cate_id: '[]'
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+CaseName: 根据订单分类获取分类订单总数_order_cate_id为空
+code: 0
+
+---
+uid: '43507844'
+order_cate_id: '[2001]'
+api_key: 9R3coFDrgBiEZUQG2PZmqTXMjiT2wU6o
+CaseName: 根据订单分类获取分类订单总数_order_cate_id为2001
+code: 0

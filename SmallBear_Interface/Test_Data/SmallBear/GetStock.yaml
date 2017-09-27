@@ -1,0 +1,48 @@
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: '{"productSn":"952841-00016-04","warehouseAreaCode":2}'
+CaseName: 获取单个商品的库存_SUCESS
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: ''
+data: '{"productSn":"952841-00016-04","warehouseAreaCode":2}'
+CaseName: 获取单个商品的库存_sys为空
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: ''
+CaseName: 获取单个商品的库存_data为空
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: '{"productSn":"","warehouseAreaCode":2}'
+CaseName: 获取单个商品的库存_productSn为空
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: '{"productSn":"952841-00016-04","warehouseAreaCode":}'
+CaseName: 获取单个商品的库存_warehouseAreaCode为空
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: '{"productSn":"111111-00000-01","warehouseAreaCode":2}'
+CaseName: 获取单个商品的库存_productSn错误
+code: 0
+
+---
+api_key: 402a61732af2bf0b8df1cb9a12ae2b29
+sys: '7'
+data: '{"productSn":"952841-00016-04","warehouseAreaCode":1}'
+CaseName: 获取单个商品的库存_warehouseAreaCode为1
+code: 0

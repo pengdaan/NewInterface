@@ -1,0 +1,44 @@
+---
+suggest_reason: '122'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: '43507844'
+CaseName: 用户申请退款_退款成功
+code: 0
+
+---
+suggest_reason: '123'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: '43507844'
+CaseName: 用户申请退款_suggest_reason错误
+code: 0
+
+---
+suggest_reason: ''
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: '43507844'
+CaseName: 用户申请退款_suggest_reason为空
+code: 0
+
+---
+suggest_reason: '122'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: ''
+CaseName: 用户申请退款_uid为空
+code: 0
+
+
+---
+suggest_reason: '122'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: '43507855'
+CaseName: 用户申请退款_Uid错误
+code: 0
+
+
+---
+suggest_reason: '122'
+api_key: 8d46b75a4a0456a35302d2893ed072a3
+uid: '43507855'
+amount: '1'
+CaseName: 用户申请退款_订单金额和金额参数不对应
+code: 0

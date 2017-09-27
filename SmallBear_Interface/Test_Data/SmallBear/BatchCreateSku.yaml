@@ -1,0 +1,6 @@
+---
+sku_list: '{["barcode":"GT17284215","sku_name":"一段奶粉","plan_quantity":"11","purchase_price":"99","remark":"一段奶粉"]}'
+storage: heiyu
+appkey: xsx
+CaseName: ERP自动创建sku_SUCESS
+code: 0

@@ -1,0 +1,29 @@
+---
+data: '{"promotion_type":2,"promotion_id":62}'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取秒杀订单实际秒杀购买数_SUCESS
+code: 0
+
+---
+data: '{"promotion_type":1,"promotion_id":62}'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取秒杀订单实际秒杀购买数_promotion_type=1
+code: 0
+
+---
+data: '{"promotion_type":2,"promotion_id":621}'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取秒杀订单实际秒杀购买数_promotion_id不对应
+code: 0
+
+---
+data: '{"promotion_type":,"promotion_id":}'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取秒杀订单实际秒杀购买数_data值为空
+code: 0
+
+---
+data: '{"promotion_type":,"promotion_id":}'
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取秒杀订单实际秒杀购买数_data为空
+code: 0

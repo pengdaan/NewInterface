@@ -1,0 +1,17 @@
+---
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取订单客服留言接口_SUCESS
+code: 0
+
+---
+order_sn : 1
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取订单客服留言接口_订单号错误
+code: 0
+
+---
+order_sn: 2
+api_key: b47d4503ce201db6df525911812dd089
+CaseName: 获取订单客服留言接口_订单号为空
+code: 0
+
